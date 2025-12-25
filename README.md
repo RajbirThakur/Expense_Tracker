@@ -27,5 +27,4 @@ This project was built to bridge the gap between core PHP development and data v
 
 The application uses a relational structure:
 - `users`: Stores encrypted credentials and profile info.
-- `categories`: Preset and custom spending categories.
 - `transactions`: Stores amount, type (income/expense), date, and user relationship.
